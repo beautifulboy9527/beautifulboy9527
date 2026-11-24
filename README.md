@@ -9,6 +9,7 @@
 [![Free Prompt Builder](https://img.shields.io/badge/Free_Tool-Motion_Prompt_Builder-4F46E5?style=for-the-badge)](https://movaui.com/tools/motion-prompt-builder)
 [![Cloud Catalog MCP](https://img.shields.io/badge/MCP-movaui.com%2Fmcp%2Fcatalog-2563EB?style=for-the-badge)](https://movaui.com/skills)
 [![Official MCP Registry](https://img.shields.io/badge/Official_MCP_Registry-Active-059669?style=for-the-badge)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.beautifulboy9527/movaui-catalog)
+[![MovaUI Cloud Catalog MCP connector](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp)
 
 </div>
 
