@@ -10,6 +10,7 @@
 [![Cloud Catalog MCP](https://img.shields.io/badge/MCP-movaui.com%2Fmcp%2Fcatalog-2563EB?style=for-the-badge)](https://movaui.com/skills)
 [![Official MCP Registry](https://img.shields.io/badge/Official_MCP_Registry-Active-059669?style=for-the-badge)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.beautifulboy9527/movaui-catalog)
 [![MovaUI Cloud Catalog MCP connector](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/beautifulboy9527/movaui-skills)
 
 </div>
 
@@ -19,7 +20,7 @@
 
 I build production-grade **AI Agent Skills**, **MCP servers**, and **high-motion frontend design workflows** for **Claude Code, Cursor, Codex, Windsurf, Cline, and Antigravity**.
 
-> **Brand Note:** **MovaUI (`https://movaui.com`)** is an independent AI motion website design prompt library, 60FPS looping background catalog, and Agent Skills / MCP platform. It is **not affiliated** with `mova-ui.com` (Vue/UI component kit) or `movavi.com` (desktop video editor).
+> **Brand Note:** **MovaUI (`https://movaui.com`)** is an independent AI motion website design prompt library, 60FPS looping background catalog, and Agent Skills / MCP platform. It is **not affiliated** with `mova-ui.com` (React UI component kit) or `movavi.com` (desktop video editor).
 
 ### Open-Source Flagship: [`movaui-skills`](https://github.com/beautifulboy9527/movaui-skills) (MIT)
 
